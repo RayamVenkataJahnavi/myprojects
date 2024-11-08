@@ -1,0 +1,40 @@
+{
+  "reservations": [
+    {
+      "id": "4c96",
+      "name": "Rayam Jahnavi",
+      "email": "januchowdary09872@gmail.com",
+      "phone": "9398819797",
+      "date": "2024-10-29",
+      "time": "17:18",
+      "persons": "1 person"
+    },
+    {
+      "id": "1521",
+      "name": "Rayam Jahnavi",
+      "email": "januchowdary09872@gmail.com",
+      "phone": "9398819797",
+      "date": "2024-10-30",
+      "time": "18:26",
+      "persons": "1 person"
+    },
+    {
+      "id": "2d91",
+      "name": "Rayam Jahnavi",
+      "email": "januchowdary09872@gmail.com",
+      "phone": "9398819797",
+      "date": "2024-11-26",
+      "time": "15:21",
+      "persons": "1 person"
+    },
+    {
+      "id": "813f",
+      "name": "rjanu",
+      "email": "shin@gmail.com",
+      "phone": "1234567895",
+      "date": "2024-11-21",
+      "time": "15:38",
+      "persons": "1 person"
+    }
+  ]
+}

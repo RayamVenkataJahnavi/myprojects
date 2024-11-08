@@ -1,0 +1,190 @@
+{
+  "order": [
+    {
+      "id": "2632",
+      "customerName": "Rayam Jahnavi",
+      "customerPhone": "09398819797",
+      "customerEmail": "januchowdary09872@gmail.com",
+      "customerAddress": "Kavali yadavalli,aspeta mandalam, Nellore district",
+      "orderDate": "2345-03-12",
+      "items": [
+        {
+          "itemName": "aa",
+          "quantity": 2,
+          "price": 234
+        }
+      ],
+      "totalAmount": 468
+    },
+    {
+      "id": "7d23",
+      "customerName": "Rayam Jahnavi",
+      "customerPhone": "09398819797",
+      "customerEmail": "januchowdary09872@gmail.com",
+      "customerAddress": "Kavali yadavalli,aspeta mandalam, Nellore district",
+      "orderDate": "4655-03-12",
+      "items": [
+        {
+          "itemName": "a",
+          "quantity": 12,
+          "price": 2345
+        }
+      ],
+      "totalAmount": 28140
+    },
+    {
+      "id": "c51a",
+      "customerName": "Rayam Jahnavi",
+      "customerPhone": "09398819797",
+      "customerEmail": "januchowdary09872@gmail.com",
+      "customerAddress": "Kavali yadavalli,aspeta mandalam, Nellore district",
+      "orderDate": "0234-12-12",
+      "items": [
+        {
+          "itemName": "qw",
+          "quantity": 12,
+          "price": 234
+        }
+      ],
+      "totalAmount": 2808
+    },
+    {
+      "id": "d2ad",
+      "customerName": "Rayam Jahnavi",
+      "customerPhone": "9398819797",
+      "customerEmail": "januchowdary09872@gmail.com",
+      "customerAddress": "Kavali yadavalli,aspeta mandalam, Nellore district",
+      "orderDate": "2024-11-07",
+      "items": [
+        {
+          "itemName": "friut pizza",
+          "quantity": 3,
+          "price": 300
+        }
+      ],
+      "totalAmount": 900
+    },
+    {
+      "id": "ea65",
+      "customerName": "Rayam Jahnavi",
+      "customerPhone": "09398819797",
+      "customerEmail": "januchowdary09872@gmail.com",
+      "customerAddress": "Kavali yadavalli,aspeta mandalam, Nellore district",
+      "orderDate": "2024-11-14",
+      "items": [
+        {
+          "itemName": "friut pizza",
+          "quantity": 12,
+          "price": 200
+        }
+      ],
+      "totalAmount": 2400
+    },
+    {
+      "id": "15c1",
+      "customerName": "Rayam Jahnavi",
+      "customerPhone": "09398819797",
+      "customerEmail": "januchowdary09872@gmail.com",
+      "customerAddress": "Kavali yadavalli,aspeta mandalam, Nellore district",
+      "orderDate": "2024-11-23",
+      "items": [
+        {
+          "itemName": "friut pizza",
+          "quantity": 12,
+          "price": 1
+        }
+      ],
+      "totalAmount": 12
+    },
+    {
+      "id": "4db0",
+      "customerName": "Rayam Jahnavi",
+      "customerPhone": "09398819797",
+      "customerEmail": "januchowdary09872@gmail.com",
+      "customerAddress": "Kavali yadavalli,aspeta mandalam, Nellore district",
+      "orderDate": "2024-11-30",
+      "items": [
+        {
+          "itemName": "friut pizza",
+          "quantity": 12,
+          "price": 1
+        }
+      ],
+      "totalAmount": 12
+    },
+    {
+      "id": "7d3d",
+      "customerName": "Rayam Jahnavi",
+      "customerPhone": "09398819797",
+      "customerEmail": "januchowdary09872@gmail.com",
+      "customerAddress": "Kavali yadavalli,aspeta mandalam, Nellore district",
+      "orderDate": "2024-11-16",
+      "items": [
+        {
+          "itemName": "friut pizza",
+          "quantity": 13,
+          "price": 12
+        }
+      ],
+      "totalAmount": 156
+    },
+    {
+      "id": "949d",
+      "customerName": "Rayam Jahnavi",
+      "customerPhone": "92834878213",
+      "customerEmail": "januchowdary09872@gmail.com",
+      "customerAddress": "Kavali yadavalli,aspeta mandalam, Nellore district",
+      "orderDate": "2024-11-23",
+      "items": [
+        {
+          "itemName": "friut pizza",
+          "quantity": 2,
+          "price": 700
+        }
+      ],
+      "totalAmount": 1400
+    },
+    {
+      "id": "6e7b",
+      "customerName": "Rayam Jahnavi",
+      "customerPhone": "09398819797",
+      "customerEmail": "januchowdary09872@gmail.com",
+      "customerAddress": "Kavali yadavalli,aspeta mandalam, Nellore district",
+      "orderDate": "2024-11-06",
+      "items": [],
+      "totalAmount": 0
+    },
+    {
+      "id": "faf1",
+      "customerName": "Rayam Jahnavi",
+      "customerPhone": "9398819797",
+      "customerEmail": "januchowdary09872@gmail.com",
+      "customerAddress": "Kavali yadavalli,aspeta mandalam, Nellore district",
+      "orderDate": "2024-11-06",
+      "items": [
+        {
+          "itemName": "friut pizza",
+          "quantity": 13,
+          "price": 300
+        }
+      ],
+      "totalAmount": 3900
+    },
+    {
+      "id": "01fc",
+      "customerName": "rjanu",
+      "customerPhone": "0987655433",
+      "customerEmail": "shindoea123@gmail.com",
+      "customerAddress": "rkstreet,bangalore,523423",
+      "orderDate": "2024-11-30",
+      "items": [
+        {
+          "itemName": "fruit pizza",
+          "quantity": 12,
+          "price": 800
+        }
+      ],
+      "totalAmount": 9600
+    }
+  ]
+}
