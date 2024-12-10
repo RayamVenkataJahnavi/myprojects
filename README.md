@@ -47,7 +47,7 @@ Note: Below is the preview of the React application – Bake My Cake's Home view
 ![](./screenshots/Bake-My-Cake-Mobile.png)
 
 #### Task 2: Design the Order View ​
-
+  
 - The user will be navigated to the order view once he selects a particular item on the home view.​
 - The order view should display the details of the item selected.​
 - This view should also allow users to provide the details required for placing the order for the selected item.​
