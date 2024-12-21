@@ -2,9 +2,8 @@ export default function Footer(){
     return (
       
         <div className="footer">
-        
          <div className="social-icons" data-testid="iconsr">
-        
+         
             <a href="https://facebook.com"/>
             <i className="fab fa-facebook-f"></i>
             <a href="https://instagram.com"/>

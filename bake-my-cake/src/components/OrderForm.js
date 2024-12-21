@@ -25,13 +25,14 @@ const FormHeader = styled.h2`
   font-size: 15px;
   font-family: italic;
 `;
-
 const weights = ["2kg", "1kg", "500gm", "250gm", "6 pieces", "4 pieces"];
 
 const OrderForm = () => {
   const [selectedItem, setSelectedItem] = useState(null);
   const [successMessage, setSuccessMessage] = useState("");
+
   const { id } = useParams();
+  
   const navigate = useNavigate();
 
   const {
@@ -50,7 +51,7 @@ const OrderForm = () => {
       .then((response) => {
         console.log(response.data);  // Check if data contains image field
         setSelectedItem(response.data);
-      });
+      });     
   }, [id]);
 
   const onSubmit = async (data) => {
@@ -300,6 +301,7 @@ const OrderForm = () => {
                 />
               )}
             />
+            
             <Controller
               name="zipCode"
               control={control}

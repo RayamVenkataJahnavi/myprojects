@@ -33,10 +33,9 @@ const App = () => {
           {/* Pass the categoryFilter to HeroSection */}
           <HeroSection categoryFilter={categoryFilter} />
         </ErrorBoundary>
-
         {/* Setup Routes */}
         <Routes>
-        <Route path="/order/:id" element={<OrderForm />} />
+        <Route path="/order/:id" element={<OrderForm/>} />
           {/* Add more routes as needed */}
         </Routes>
         <Footer />

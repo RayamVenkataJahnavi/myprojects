@@ -3,10 +3,13 @@ import axios from "axios";
 import { Grid, Typography, Button, Card, CardMedia, CardContent } from "@mui/material";
 import { useNavigate } from "react-router-dom";
 const HeroSection = ({ categoryFilter }) => {
+
   const [items, setItems] = useState([]);
+  
   const navigate = useNavigate();
 
   // Fetch data from json-server
+  
   useEffect(() => {
     axios
       .get("http://localhost:3001/cakes") // Ensure this matches your API

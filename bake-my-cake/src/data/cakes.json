@@ -165,7 +165,7 @@
       "category": "chocolates",
       "name": "Chocolate Bonbons-500gm",
       "price": 800,
-      "image": "../cakes/ChocolateBonbons.jpg",
+      "image": "../cakes/Chocolate Bonbons.jpg",
       "rating": 4.9,
       "weight": 0.5,
       "description": "These beautiful chocolate bonbons are made with tempered dark chocolate and filled with a delicious milk chocolate ganache. This easy technique for painted cocoa butter shells is so impressive no one will believe these are homemade."
@@ -279,6 +279,102 @@
         "rating": 4.9,
         "weight": 0.5,
         "description": "These beautiful chocolate bonbons are made with tempered dark chocolate and filled with a delicious milk chocolate ganache. This easy technique for painted cocoa butter shells is so impressive no one will believe these are homemade."
+      }
+    },
+    {
+      "id": "f801",
+      "firstName": "janu",
+      "lastName": "rayam",
+      "email": "123@gmail.com",
+      "phone": "8989898989",
+      "deliveryDate": "2024-12-14",
+      "quantity": "14",
+      "weight": "500gm",
+      "address": "sk street",
+      "city": "nellore",
+      "state": "ap",
+      "zipCode": "524234",
+      "item": {
+        "id": "2",
+        "category": "cheese cakes",
+        "name": "Classic Cheesecake",
+        "price": 1250,
+        "weight": 1,
+        "rating": 4.2,
+        "image": "../cakes/Classic Cheesecake.jpg",
+        "description": "The perfect cheesecake for Fall! This seasonal delight has the taste of the classic cheesecake you love, swirled with pumpkin flavor."
+      }
+    },
+    {
+      "id": "6787",
+      "firstName": "janu",
+      "lastName": "rayam",
+      "email": "jahnavi@gmail.com",
+      "phone": "8989898989",
+      "deliveryDate": "2024-12-16",
+      "quantity": "11",
+      "weight": "500gm",
+      "address": "jjj",
+      "city": "sss",
+      "state": "ssss",
+      "zipCode": "524234",
+      "item": {
+        "id": "4",
+        "category": "cup cakes",
+        "name": "Pumpkin Spice Cupcakes-6",
+        "price": 360,
+        "rating": 4.5,
+        "weight": 0.6,
+        "image": "../cakes/Pumpkin Spice Cupcakes.jpg",
+        "description": "These hearty pumpkin cupcakes are topped with a cinnamon cream cheese frosting. Delicious in the fall for a tasty treat."
+      }
+    },
+    {
+      "id": "dea7",
+      "firstName": "jnau",
+      "lastName": "rayam",
+      "email": "janu@gmail.com",
+      "phone": "9898989898",
+      "deliveryDate": "2024-12-19",
+      "quantity": "12",
+      "weight": "500gm",
+      "address": "hyderabad",
+      "city": "nellore",
+      "state": "ap",
+      "zipCode": "524234",
+      "item": {
+        "id": "18",
+        "category": "cookies",
+        "name": "Chocolate Cookies-500gm",
+        "price": 600,
+        "rating": 5,
+        "weight": 0.5,
+        "image": "../cakes/Chocolate Cookies.jpg",
+        "description": "A chocolate chip cookie is a drop cookie that features chocolate chips or chocolate morsels as its distinguishing ingredient."
+      }
+    },
+    {
+      "id": "b3f0",
+      "firstName": "janu",
+      "lastName": "rayam",
+      "email": "janu@gmail.com",
+      "phone": "9898989898",
+      "deliveryDate": "2024-12-16",
+      "quantity": "12",
+      "weight": "500gm",
+      "address": "sk street",
+      "city": "nellore",
+      "state": "ap",
+      "zipCode": "524234",
+      "item": {
+        "id": "2",
+        "category": "cheese cakes",
+        "name": "Classic Cheesecake",
+        "price": 1250,
+        "weight": 1,
+        "rating": 4.2,
+        "image": "../cakes/Classic Cheesecake.jpg",
+        "description": "The perfect cheesecake for Fall! This seasonal delight has the taste of the classic cheesecake you love, swirled with pumpkin flavor."
       }
     }
   ]
